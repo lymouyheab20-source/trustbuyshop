@@ -1,0 +1,64 @@
+{
+  "product": {
+    "id": "mini-screwdriver-set-25-in-1",
+    "name": "25 in 1 Mini Screwdriver Set",
+    "headline": "Premium Precision Screwdrivers for Electronics",
+    "description": "Professional-grade 25-in-1 mini screwdriver set featuring precision flat head and cross-shaped screwdrivers. Ideal for smartphones, laptops, cameras, gaming consoles, and other electronic devices.",
+    "price": {
+      "amount": 25.00,
+      "currency": "USD"
+    },
+    "sku": "MINI-SCREW-25-FB",
+    "barcode": "TBS-2501-FB",
+    "specifications": {
+      "total_pieces": 25,
+      "screw_types": [
+        "Phillips Head (Cross)",
+        "Flat Head (Slotted)"
+      ],
+      "handle_material": "Ergonomic TPR (Thermoplastic Rubber)",
+      "bit_materials": "Chrome Vanadium Steel",
+      "storage": "Compact carrying case with magnetic holder",
+      "dimensions": {
+        "case_length_cm": 15,
+        "case_width_cm": 8,
+        "case_height_cm": 3
+      },
+      "weight_grams": 280
+    },
+    "features": [
+      "25 precision-engineered bits",
+      "Magnetic screwdriver handle",
+      "Non-slip ergonomic grip",
+      "Chrome vanadium steel bits for durability",
+      "Compact portable carrying case",
+      "Professional quality for DIY and professional use",
+      "Perfect for electronics repair and maintenance",
+      "Suitable for phones, tablets, laptops, cameras"
+    ],
+    "target_audience": [
+      "Electronics repair professionals",
+      "DIY enthusiasts",
+      "Tech-savvy consumers",
+      "Gadget owners",
+      "Maintenance specialists"
+    ],
+    "applications": [
+      "Smartphone repair",
+      "Laptop maintenance",
+      "Camera servicing",
+      "Gaming console repair",
+      "Smart device maintenance",
+      "General electronics assembly"
+    ],
+    "warranty": {
+      "period_months": 12,
+      "coverage": "Manufacturing defects"
+    },
+    "shipping": {
+      "weight_kg": 0.35,
+      "dimensions_cm": "15x8x3",
+      "handling_class": "fragile"
+    }
+  }
+}
