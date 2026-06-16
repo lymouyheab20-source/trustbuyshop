@@ -1,0 +1,50 @@
+{
+  "store_name": "TrustBuyShop",
+  "store_description": "Premium 25 in 1 Mini Screwdriver Set for Electronics Repair",
+  "currency": "USD",
+  "theme": {
+    "primary_color": "#007bff",
+    "secondary_color": "#ff6b6b",
+    "accent_color": "#ffc107",
+    "background_color": "#ffffff",
+    "text_color": "#333333"
+  },
+  "site_settings": {
+    "meta_title": "25 in 1 Mini Screwdriver Set | TrustBuyShop",
+    "meta_description": "Professional-grade 25-in-1 mini screwdriver set with flat head and cross-shaped bits. Perfect for electronics repair.",
+    "og_image": "https://example.com/og-image.jpg"
+  },
+  "checkout": {
+    "require_customer_account": false,
+    "enable_guest_checkout": true,
+    "payment_methods": [
+      "credit_card",
+      "paypal",
+      "apple_pay",
+      "google_pay"
+    ]
+  },
+  "shipping": {
+    "default_weight_unit": "kg",
+    "default_dimension_unit": "cm",
+    "flat_rate_shipping": {
+      "enabled": true,
+      "rate_usd": 5.99,
+      "free_shipping_threshold": 50
+    }
+  },
+  "seo": {
+    "keywords": [
+      "mini screwdriver set",
+      "precision screwdrivers",
+      "electronics repair tools",
+      "25 in 1 screwdriver",
+      "phone repair kit",
+      "laptop repair tools"
+    ]
+  },
+  "analytics": {
+    "google_analytics_id": "UA-XXXXXXXXX-X",
+    "facebook_pixel_id": "XXXXXXXXXX"
+  }
+}
